@@ -47,4 +47,4 @@ function t(r){return(t="function"==typeof Symbol&&"symbol"==typeof Symbol.iterat
 },{"react":"n8MK","swr":"viGY","../components/RenderStat":"yWII","../utils/Fetcher":"Lff5"}],"aeIX":[function(require,module,exports) {
 "use strict";var e=u(require("react")),r=require("react-dom");require("../scss/App.scss");var t=require("./pages/Home");function u(e){return e&&e.__esModule?e:{default:e}}var n=function(){return e.default.createElement(t.Home,null)};(0,r.render)(e.default.createElement(n,null),document.getElementById("root"));
 },{"react":"n8MK","react-dom":"NKHc","../scss/App.scss":"zcxt","./pages/Home":"SviN"}]},{},["aeIX"], null)
-//# sourceMappingURL=/App.ecd486fc.js.map
+//# sourceMappingURL=App.ecd486fc.js.map
