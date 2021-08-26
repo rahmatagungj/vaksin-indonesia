@@ -1,13 +1,10 @@
 import React from "react";
 import { render } from "react-dom";
 import "../scss/App.scss";
+import { Home } from "./pages/Home";
 
 const App = () => {
-  return (
-    <div>
-      <h1>hai</h1>
-    </div>
-  );
+  return <Home />;
 };
 
 render(<App />, document.getElementById("root"));
